@@ -54,3 +54,47 @@ li:hover {
   color:black;
   text-decoration: none;
 }
+/*PARTE DE FER Y SUE*/
+
+.botonDownload{
+  background-color: #6f5499;
+  width: 200px;
+  height: 20px;
+  padding: 25px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:18px;
+  text-align: center;
+  color:white;
+  border:solid 1px;
+  border-color:white;
+  border-radius: 8px;
+  margin-left: 510px;
+
+}
+.botonDownload:hover{
+  background-color: white;
+  color: #6f5499;
+}
+.textoChiquito{
+
+  color:#9370DB;
+}
+main {
+    background-color: #5b4283;
+}
+.seccionFyS{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+
+}
+.textoIntro{
+  color: white;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:22px;
+  text-align: center;
+  padding: 5px;
+  padding-bottom: 20px;
+}
