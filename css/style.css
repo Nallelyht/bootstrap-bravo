@@ -76,11 +76,12 @@ li:hover {
   color: #6f5499;
 }
 .textoChiquito{
-
+  padding-top: 10px;
   color:#9370DB;
 }
-main {
+.fondito {
     background-color: #5b4283;
+    padding-bottom: 80px;
 }
 .seccionFyS{
     text-align: center;
